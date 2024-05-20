@@ -1,4 +1,4 @@
-# Binance_CopyTrading
+# Binance、OKX_CopyTrading
 ## **在使用前，您需要注册我们社区的账号**
 
 为了确保您能顺利使用我们的软件，请先访问我们的官方网站进行账号注册：
